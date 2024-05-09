@@ -3,3 +3,8 @@ print("hello Git and Github")
 ########################################## command Git
 
 # git init
+
+print("second change after first commit")
+
+print("third change after first commit")
+
